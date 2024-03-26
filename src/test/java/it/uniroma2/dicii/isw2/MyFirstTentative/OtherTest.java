@@ -19,5 +19,10 @@ public class OtherTest {
         assertTrue( this.cut.chk() );
     }
 	
+    @Test
+    public void assessChkz()
+    {
+        assertTrue( this.cut.chk() );
+    }
 
 }
